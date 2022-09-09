@@ -1,0 +1,14 @@
+form {
+    background-color: #1F60FF;
+    padding: 20px;
+    margin: 20px;
+}
+
+.formLables {
+    color: white;
+}
+
+
+.inputWrapper {
+    margin-bottom: 8px;
+}
